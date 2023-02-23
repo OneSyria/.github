@@ -2,6 +2,7 @@
 
 
 ## 📌 Join the discussion on [Github 🗨️](https://github.com/orgs/OneSyria/discussions)!
+## 📌 Check-out the [theory behind OneSyria](https://github.com/OneSyria/theory) 
 
 
 ## Overview
