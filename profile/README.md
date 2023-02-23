@@ -1,7 +1,7 @@
 # OneSyria
 
 
-## 📌 Join the discussion: https://github.com/orgs/OneSyria/discussions
+## 📌 Join the discussion on [Github 🗨️](https://github.com/orgs/OneSyria/discussions)!
 
 
 ## Overview
