@@ -1,11 +1,8 @@
-The OneSyria Project
-
-Overview
-The project aims to create a Decentralized Autonomous Government as an alternative digital government in Syria, that is autonomous, inclusive, transparent, and democratic. The DAG will be built using Blockchain technology and will allow citizens to vote on laws, policies, and budget allocation directly and securely. The objectives of the project are to create a parallel system that is fair, secure, and promotes equality for all citizens, and ultimately, gain local and international recognition over the current government. 
-
-
-
 # OneSyria
+
+
+## 📌 Join the discussion: https://github.com/orgs/OneSyria/discussions
+
 
 ## Overview
 This project aims to create a *Decentralized Autonomous Government* as an alternative, digital government to the current Syrian Gov. That is autonomous, inclusive, transparent, and democratic. The DAG will be built using Blockchain technology and will allow citizens to vote on laws, policies, and budget allocation directly and securely. The main goal of this project is to create a new system that is fair, secure, and promotes equality for all citizens, and ultimately, gain local and international recognition over the current government.
